@@ -1,0 +1,15 @@
+{
+  "name": "node-container-example",
+  "version": "1.0.0",
+  "description": "Sample node express server used for tutorial demonstrations",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucid Logic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
